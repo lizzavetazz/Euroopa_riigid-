@@ -1,0 +1,17 @@
+Capitals={}
+Capitals = dict()
+Capitals['Austria'] = 'Vienna'
+Capitals['Belgium'] = 'Brussels'
+Capitals['Bulgaria'] = 'Sofia'
+Capitals['Croatia'] = 'Zagreb'
+Capitals['Cyprus'] = 'Nicosia'
+Capitals['Czech Republic'] = 'Prague'
+Capitals['Finland'] = 'Helsinki'
+Capitals['Sweden'] = 'Stockholm'
+Capitals['Italy'] = 'Roma'
+Capitals[''] = ''
+Capitals[''] = ''
+Capitals[''] = ''
+Capitals[''] = ''
+Capitals[''] = ''
+Capitals[''] = ''
